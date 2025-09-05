@@ -1,1 +1,1 @@
-print("Hello QA World! 🚀")
+print("Hello QA World! 🚀 - primul meu pipeline mergeee!")
