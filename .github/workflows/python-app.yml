@@ -17,4 +17,4 @@ jobs:
     - name: Run script
       run: python hello.py
     - name: second step
-      run: echo "Pipelinel meu stie sa faca mai multe lucruri"
+      run: echo "Pipeline-ul meu stie sa faca mai multe lucruri"
