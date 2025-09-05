@@ -16,3 +16,5 @@ jobs:
         python-version: '3.x'
     - name: Run script
       run: python hello.py
+    - name: second step
+      run: echo "Pipelinel meu stie sa faca mai multe lucruri"
